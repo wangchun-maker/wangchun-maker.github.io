@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="关于, 王春的博客">
-    <meta name="description" content="">
+    <meta name="description" content="简单的学习者，热情的分享者">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -133,7 +133,7 @@
         <div class="logo-name">王春的博客</div>
         <div class="logo-desc">
             
-            Never really desperate, only the lost of the soul.
+            简单的学习者，热情的分享者
             
         </div>
     </div>
@@ -297,13 +297,24 @@
         <div class="brand">
             <div class="title center-align">
                 
-                    subtitle
+                勇往直前
                 
             </div>
 
             <div class="description center-align">
                 
-                    
+                <span id="subtitle"></span>
+                <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+                <script>
+                    var typed = new Typed("#subtitle", {
+                        strings: ['从来没有真正的绝境, 只有心灵的迷途','Never really desperate, only the lost of the soul'],
+                        startDelay: 300,
+                        typeSpeed: 100,
+                        loop: true,
+                        backSpeed: 50,
+                        showCursor: true
+                    });
+                </script>
                 
             </div>
         </div>
@@ -573,7 +584,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: ["生活","感悟","技术","好物分享","美文"]
+                data: ["生活","技术","美文","感悟","好物分享"]
             }
         ],
         yAxis: [
@@ -756,8 +767,20 @@
         <div class="tag-chips center-align">
             
             
+            <a href="/tags/%E6%8A%80%E6%9C%AF/">
+                <span class="chip center-align waves-effect waves-light chip-default">技术</span>
+            </a>
+            
+            
+            
             <a href="/tags/%E7%94%9F%E6%B4%BB/">
                 <span class="chip center-align waves-effect waves-light chip-default">生活</span>
+            </a>
+            
+            
+            
+            <a href="/tags/%E7%BE%8E%E6%96%87/">
+                <span class="chip center-align waves-effect waves-light chip-default">美文</span>
             </a>
             
             
@@ -768,20 +791,8 @@
             
             
             
-            <a href="/tags/%E6%8A%80%E6%9C%AF/">
-                <span class="chip center-align waves-effect waves-light chip-default">技术</span>
-            </a>
-            
-            
-            
             <a href="/tags/%E5%A5%BD%E7%89%A9%E5%88%86%E4%BA%AB/">
                 <span class="chip center-align waves-effect waves-light chip-default">好物分享</span>
-            </a>
-            
-            
-            
-            <a href="/tags/%E7%BE%8E%E6%96%87/">
-                <span class="chip center-align waves-effect waves-light chip-default">美文</span>
             </a>
             
             

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>王春的博客</title>
   
-  
+  <subtitle>勇往直前</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="wangchun-maker.github.io/"/>
