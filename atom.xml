@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="wangchun-maker.github.io/"/>
-  <updated>2020-04-18T11:30:35.684Z</updated>
+  <updated>2020-04-18T11:33:42.069Z</updated>
   <id>wangchun-maker.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="wangchun-maker.github.io/2020/04/18/4-18%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
     <id>wangchun-maker.github.io/2020/04/18/4-18%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</id>
     <published>2020-04-18T11:21:40.000Z</published>
-    <updated>2020-04-18T11:30:35.684Z</updated>
+    <updated>2020-04-18T11:33:42.069Z</updated>
     
     <content type="html"><![CDATA[<p>遇到喜欢的人和事，就去争取去努力<br>世事那么难，能遇见不容易。<br><img src="/images/9.jpg" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
@@ -39,7 +39,9 @@
     
     
     
-      <category term="-生活 -爱情" scheme="wangchun-maker.github.io/tags/%E7%94%9F%E6%B4%BB-%E7%88%B1%E6%83%85/"/>
+      <category term="生活" scheme="wangchun-maker.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="爱情" scheme="wangchun-maker.github.io/tags/%E7%88%B1%E6%83%85/"/>
     
   </entry>
   
@@ -72,7 +74,7 @@
     <link href="wangchun-maker.github.io/2020/04/17/4-14%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
     <id>wangchun-maker.github.io/2020/04/17/4-14%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</id>
     <published>2020-04-16T17:41:20.000Z</published>
-    <updated>2020-04-16T19:00:19.640Z</updated>
+    <updated>2020-04-18T11:33:39.525Z</updated>
     
     <content type="html"><![CDATA[<p>半生已过，学会沉默<br>凡事先讨好自己<br>至于别人，分心情看交情<br><img src="/images/2.jpg" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
