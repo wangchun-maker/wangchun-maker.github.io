@@ -8,7 +8,7 @@
       <link href="/2020/04/18/4-18%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/"/>
       <url>/2020/04/18/4-18%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</url>
       
-        <content type="html"><![CDATA[<p>遇到喜欢的人和事，就去争取去努力<br>世事那么难，能遇见不容易。<br><img src="/images/9.jpg" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<p>遇到喜欢的人和事，就去争取去努力，<br>世事那么难，能遇见不容易。<br><img src="/images/9.jpg" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       
